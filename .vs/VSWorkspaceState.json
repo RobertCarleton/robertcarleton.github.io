@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Content",
-    "\\Content\\Games"
+    "\\Content\\Games",
+    "\\Content\\Games\\Zelda"
   ],
-  "SelectedNode": "\\Content\\Games\\ZeldaPlatformer",
+  "SelectedNode": "\\Content\\Games\\Zelda\\index.html",
   "PreviewInSolutionExplorer": false
 }
