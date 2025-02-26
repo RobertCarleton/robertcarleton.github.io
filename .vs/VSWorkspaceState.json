@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Content",
+    "\\Content\\Games"
   ],
+  "SelectedNode": "\\Content\\Games\\RougeLike",
   "PreviewInSolutionExplorer": false
 }
